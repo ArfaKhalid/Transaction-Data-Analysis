@@ -51,9 +51,7 @@ Examines the `SERIALIZABLE` isolation level, which prevents concurrent transacti
 
 ## 6. Conclusion <a name="conclusion"></a>
 
-Congratulations! You've successfully navigated through the essentials of managing bank transactions using PostgreSQL. This project provides hands-on experience with SQL commands and transaction management, offering a solid foundation for working with financial data in a relational database.
+This project provides hands-on experience with SQL commands and transaction management, offering a solid foundation for working with financial data in a relational database.
 
-Feel free to experiment with the examples, modify the queries, and explore further to deepen your understanding of transaction management in PostgreSQL.
 
-Happy coding!
 
